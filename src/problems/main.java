@@ -1,6 +1,6 @@
 package problems;
 
-import problems.algorithms.BOJ.webtoon02;
+import problems.algorithms.programmers.webtoon02;
 
 public class main {
     public static void main(String[] args) {

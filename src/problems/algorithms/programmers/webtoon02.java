@@ -1,6 +1,4 @@
-package problems.algorithms.BOJ;
-
-import java.util.*;
+package problems.algorithms.programmers;
 
 public class webtoon02 {
 

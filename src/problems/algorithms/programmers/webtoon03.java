@@ -1,4 +1,4 @@
-package problems.algorithms.BOJ;
+package problems.algorithms.programmers;
 
 public class webtoon03 {
     public String[] solution(String s) {
